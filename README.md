@@ -7,8 +7,8 @@
     - Git, Windows, Linux, Agile
 - I'm familiar with:
     - Python, C#, Angular 7, HTML/CSS, and SQL
-- 💞️ I’m looking to collaborate on any new opportunities.
-- 📫 Reach me at ronalddavis801@gmail.com
+-  I’m looking for new opportunities.
+-  Reach me at ronalddavis801@gmail.com
 
 <!---
 rdavis801/rdavis801 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
