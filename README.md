@@ -1,5 +1,5 @@
 - Hi, I’m Ronald Davis (@rdavis801)
-- I’m interested in Java and C++ currently, but I am always looking for new skills to pick up.
+- I’m interested in Java and C++ projects currently, but I am always looking for new skills to pick up.
 - I’m proficient in:
     - Java/Spring Boot and C++
     - Intellij, Eclipse, Visual Studio
